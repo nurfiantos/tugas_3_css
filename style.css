@@ -1,0 +1,26 @@
+p {
+    background-color: grey;
+}
+
+.satu {
+    background-color: rgb(255, 136, 0);
+}
+
+.dua {
+    background-color: blue;
+    color: white;
+}
+
+.tiga {
+    background-color: white;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: x-large;
+    border: solid 1px;
+}
+
+.empat {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: x-large;
+}
